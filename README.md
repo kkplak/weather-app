@@ -79,7 +79,10 @@ Desktop
 
 
 
-Tablet
+
+
+
+Tablet / Mobile
 
 ![Tablet](https://user-images.githubusercontent.com/93290831/152686224-c68d4d1b-ae1a-4dc7-97c7-ebd981d661c9.png)
 
@@ -87,7 +90,3 @@ Tablet
 
 
 
-Mobile
-
-
-![Mobile](https://user-images.githubusercontent.com/93290831/152686234-5d2455d0-876e-4f75-bdec-6b5182d547f9.jpg)
